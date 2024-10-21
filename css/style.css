@@ -1,3 +1,42 @@
+body {
+  line-height: 1.5rem;
+  background-color: rgb(255, 255, 255);
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 14pt;
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  margin: 10px;
+  padding: 15px;
+  border-radius: 20px;
+  background: #feecd8;
+}
+
+.header {
+  text-align: center;
+  font: lighter;
+}
+
+.image {
+  background: rgb(208, 207, 207);
+  width: 100%;
+  height: 70vh;
+  align-items: center;
+  text-align: center;
+  border-radius: 10px;
+}
+
+img {
+  padding-top: 60px;
+  margin-top: 100px;
+  max-width: 100%;
+  display: block;
+  height: 60vh;
+  margin: 0 auto;
+}
+
 .bio {
   align-items: center;
   display: block;
