@@ -1,20 +1,20 @@
 body {
-    line-height: 1.5rem;
-    background-color: rgb(255, 255, 255);
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 14pt;
-    margin: 0;
-    padding: 0;
+  line-height: 1.5rem; 
+  background-color: white;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 14pt;
+  margin: 0;
+  padding: 0;
 }
 
 main {
-   margin: 10px ;
-   padding: 15px;
-   border-radius: 20px;
-   background: #feecd8;
+  margin: 10px ;
+  padding: 15px;
+  border-radius: 20px;
+  background: #feecd8;
 }
 
 .header {
-    text-align: center;
-    font: lighter;
+  text-align: center;
+  font: lighter;
 }
