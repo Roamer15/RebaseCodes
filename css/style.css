@@ -1,0 +1,25 @@
+.bio {
+  align-items: center;
+  display: block;
+  text-align: center;
+}
+
+ul {
+  max-width: 550px;
+  margin: 0 auto 50px;
+  text-align: left;
+  line-height: 1.6;
+}
+
+.statement {
+  margin: 0 auto 50px;
+  max-width: 550px;
+  text-align: left;
+  font-style: italic;
+}
+
+.conclusion {
+  text-align: center;
+  font-style: bolder;
+  font-size: 30px;
+}
